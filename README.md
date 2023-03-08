@@ -1,8 +1,8 @@
-# Hello guys  👋
-### i am bijay khanal
+# hellouuu guys  👋
 - 🌱 I’m currently learning data analytics 
 - ⚽ I love football 
-- 🙏 I'd like to contribute to open source
+- 🙏 interested in machine learning and data science 
+- 
 
 ### Connect with me:
 
