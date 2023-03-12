@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning data analytics 
 - ⚽ I love football 
 - 🙏 interested in machine learning and data science 
-- 
 
 ### Connect with me:
 
