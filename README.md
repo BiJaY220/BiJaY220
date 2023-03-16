@@ -13,7 +13,6 @@
 
 ---
 
-<img align="centre" alt="bijay khanal's Github streaks" src="https://streak-stats.demolab.com?user=BiJaY220&theme=great-gatsby&locale=en"  alt="Bijay khanal's GitHub Streaks"/>
 <br>
 
 <img align="centre" alt="bijay khanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BiJaY220&locale=en&theme=great-gatsby&layout=compact&show_icons=true" alt="BijayKhanal's GitHub Stats" /> 
