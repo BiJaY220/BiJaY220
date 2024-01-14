@@ -1,5 +1,5 @@
 # hellouuu guys  👋
-- 🌱 I’m currently learning data analytics 
+- 🌱 JAVAAA
 - ⚽ I love football 
 - 🙏 interested in machine learning and data science 
 
